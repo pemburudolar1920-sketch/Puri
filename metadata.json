@@ -1,0 +1,6 @@
+{
+  "name": "RT Puri Pratama",
+  "description": "Aplikasi RT Digital RT Puri Pratama: Iuran bulanan, tombol darurat SOS, kas real-time, data warga lengkap, pengingat WA, koneksi CCTV, pelaporan lingkungan, ekspor Excel/CSV, forum saran, dan pengumuman kegiatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
